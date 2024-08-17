@@ -5,10 +5,7 @@
   </a>
 </h1>
 
-
-Hi there! I'm Stacy Griffy, a recent graduate of the Nashville Software School. With a strong foundation in full-stack development, I'm excited to dive into the tech world and apply my skills to real-world challenges. My journey has equipped me with a diverse set of skills, and I’m eager to contribute to innovative projects and collaborate with talented teams.
-
-
+I'm a recent graduate of the Nashville Software School. With a strong foundation in full-stack development, I'm excited to dive into the tech world and apply my skills to real-world challenges. My journey has equipped me with a diverse set of skills, and I’m eager to contribute to innovative projects and collaborate with talented teams.
 
 ## Languages & Tools
 
@@ -29,12 +26,11 @@ Hi there! I'm Stacy Griffy, a recent graduate of the Nashville Software School. 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sgriff22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-
 ## GitHub Streak
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=sgriff22&locale=en&mode=daily&theme=cobalt&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=sgriff22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=sgriff22&locale=en&mode=weekly&theme=cobalt&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sgriff22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=true" height="150" alt="stats graph" />
 </div>
 
 
