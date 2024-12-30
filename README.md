@@ -10,10 +10,10 @@ I'm a recent graduate of the Nashville Software School. With a strong foundation
 ## Languages & Tools
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sgriff22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sgriff22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=cobalt&hide_border=true" height="150" alt="languages graph" />
   &nbsp;&nbsp;&nbsp;
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,sqlite,bootstrap,cs,dotnet,vscode,postman&perline=6" alt="My Skills" height="150" width="300"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,sqlite,bootstrap,cs,dotnet,swift,vscode,postman,x&perline=6" alt="My Skills" height="150" width="300"/>
   </a>
 </div>
 
